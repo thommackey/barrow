@@ -1,0 +1,3 @@
+# Why am I talking to my computer?
+
+So why am I talking to my computer? It's a chance to try all the blogging that I've been half-arsely thinking about for five years. I do wonder how much of the nuance gets lost with the voice tone. The question from here is how I'm going to take this raw text dump and slice it up and make it readable, or at least into something vaguely coherent. In the meantime this is really just a small test to make sure that I can get it into Markdown format and put it in the directory and push it up to GitHub.
